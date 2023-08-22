@@ -23,5 +23,6 @@ std::string reverseWords(std::string s) {
 int main() {
     std::string theString = "Let's take LeetCode contest";
     std::cout << reverseWords(theString) << std::endl;
+    std::cout << "Done!" << std::endl;
     return 0;
 }
