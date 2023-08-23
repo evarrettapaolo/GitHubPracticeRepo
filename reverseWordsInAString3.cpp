@@ -26,5 +26,6 @@ int main() {
     std::cout << "Done!" << std::endl;
     std::cout << "New Sentence Added" << std::endl;
     std::cout << "This is the master view" << std::endl;
+    std::cout << "The missing sentence" << std::endl;
     return 0;
 }
