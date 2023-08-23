@@ -25,5 +25,6 @@ int main() {
     std::cout << reverseWords(theString) << std::endl;
     std::cout << "Done!" << std::endl;
     std::cout << "New Sentence Added" << std::endl;
+    std::cout << "This is the master view" << std::endl;
     return 0;
 }
